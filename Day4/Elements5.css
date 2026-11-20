@@ -1,0 +1,20 @@
+h1{
+    color:red;  
+}
+
+#demo{
+    color:blue  
+}
+
+h2,h3{
+    color:green
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.text{
+    color:purple;
+}
